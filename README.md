@@ -8,7 +8,7 @@ Olá! Meu nome é Giulia, tenho 19 anos e estou cursando Ciência de Dados e Int
 
 ## 📚 Habilidades Técnicas em desenvolvimento:
 - Linguagens de Programação: Python, SQL
-- Ferramentas: Jupyter Notebook, Git, VS Code, Power BI
+- Ferramentas: Git, VS Code, Power BI
 
 
 ## 📜 Cursos Concluídos:
